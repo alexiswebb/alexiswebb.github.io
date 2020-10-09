@@ -8,7 +8,7 @@ h1 {
   word-spacing: 0.2em;
   text-transform: uppercase;
   text-align: center;
-  padding-top: 1em;
+  padding-top: 0.5em;
 }
 
 ul {
@@ -21,7 +21,6 @@ ul {
 li {
   font-family: 'Roboto', sans-serif;
   font-size: 1em;
-  word-spacing: 0.5em;
   text-transform: uppercase;
   display: inline;
 }
@@ -31,8 +30,8 @@ li:first-child:before {
 }
 
 li:before {
-  content: " | ";
-  padding: 0.7em;
+  content: "\00B7";
+  padding: 1.2em;
 }
 
 a:link, a:visited {
