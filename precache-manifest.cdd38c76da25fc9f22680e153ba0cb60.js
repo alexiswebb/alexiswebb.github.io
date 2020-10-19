@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff11fe45aacefbc5a7b521496d344f78",
+    "revision": "40be1b4eca3f18c34f9020f0698b0cc8",
     "url": "https://alexiswebb.github.io/website/index.html"
   },
   {
-    "revision": "432ab8b446f2d187441c",
-    "url": "https://alexiswebb.github.io/website/static/css/main.fb93d6eb.chunk.css"
+    "revision": "065bcea2fc1cd0a09c81",
+    "url": "https://alexiswebb.github.io/website/static/css/main.407b2d30.chunk.css"
   },
   {
     "revision": "f0c7cc44552b6b920b54",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://alexiswebb.github.io/website/static/js/2.ddb94260.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "432ab8b446f2d187441c",
+    "revision": "065bcea2fc1cd0a09c81",
     "url": "https://alexiswebb.github.io/website/static/js/main.9302a898.chunk.js"
   },
   {
