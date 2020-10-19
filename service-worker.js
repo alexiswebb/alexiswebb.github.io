@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://alexiswebb.github.io/website/precache-manifest.886615ab41bcce075d4f26066d29f2a2.js"
+  "https://alexiswebb.github.io/website/precache-manifest.43fe19ba99b9f4209e82e2c4d54ae49f.js"
 );
 
 self.addEventListener('message', (event) => {
