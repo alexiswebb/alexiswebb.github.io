@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://alexiswebb.github.io/website/static/css/main.8503b80a.chunk.css",
+    "main.css": "https://alexiswebb.github.io/website/static/css/main.58722d85.chunk.css",
     "main.js": "https://alexiswebb.github.io/website/static/js/main.9302a898.chunk.js",
     "main.js.map": "https://alexiswebb.github.io/website/static/js/main.9302a898.chunk.js.map",
     "runtime-main.js": "https://alexiswebb.github.io/website/static/js/runtime-main.ceeeb508.js",
@@ -8,9 +8,9 @@
     "static/js/2.ddb94260.chunk.js": "https://alexiswebb.github.io/website/static/js/2.ddb94260.chunk.js",
     "static/js/2.ddb94260.chunk.js.map": "https://alexiswebb.github.io/website/static/js/2.ddb94260.chunk.js.map",
     "index.html": "https://alexiswebb.github.io/website/index.html",
-    "precache-manifest.a99f4025bf4b6df29ecf5f5380c6ed48.js": "https://alexiswebb.github.io/website/precache-manifest.a99f4025bf4b6df29ecf5f5380c6ed48.js",
+    "precache-manifest.2ce19a38eb85f3ba9ae323ec1d9885c3.js": "https://alexiswebb.github.io/website/precache-manifest.2ce19a38eb85f3ba9ae323ec1d9885c3.js",
     "service-worker.js": "https://alexiswebb.github.io/website/service-worker.js",
-    "static/css/main.8503b80a.chunk.css.map": "https://alexiswebb.github.io/website/static/css/main.8503b80a.chunk.css.map",
+    "static/css/main.58722d85.chunk.css.map": "https://alexiswebb.github.io/website/static/css/main.58722d85.chunk.css.map",
     "static/js/2.ddb94260.chunk.js.LICENSE.txt": "https://alexiswebb.github.io/website/static/js/2.ddb94260.chunk.js.LICENSE.txt",
     "static/media/dots.png": "https://alexiswebb.github.io/website/static/media/dots.eb37b6f5.png",
     "static/media/headphones.jpg": "https://alexiswebb.github.io/website/static/media/headphones.af92d7c7.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.ceeeb508.js",
     "static/js/2.ddb94260.chunk.js",
-    "static/css/main.8503b80a.chunk.css",
+    "static/css/main.58722d85.chunk.css",
     "static/js/main.9302a898.chunk.js"
   ]
 }
