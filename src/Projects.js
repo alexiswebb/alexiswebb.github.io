@@ -7,7 +7,7 @@ class Projects extends Component {
       <div class="project-container">
 	<div class="badge-container-left">
 	  <div class="badge">
-	    <img src="headphones.jpg" />
+	    <img src="images/headphones.jpg" />
 	  </div>
 	</div>
 	<div class="project-description text-right">
@@ -20,12 +20,12 @@ class Projects extends Component {
 	</div>
 	<div class="badge-container-right">
 	  <div class="badge">
-	    <img src="dots.png" />
+	    <img src="images/dots.png" />
 	  </div>
 	</div>
 	<div class="badge-container-left">
 	  <div class="ascii-badge">
-	    <img src="wave_small.png" />
+	    <img src="images/wave_small.png" />
 	  </div>
 	</div>
 	<div class="project-description text-right">
