@@ -1,0 +1,74 @@
+.project-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;
+  column-gap: 1.8em;
+  padding-bottom: 3em;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  color: grey;
+}
+
+.project-description {
+  font-family: 'Roboto', sans-serif;
+  color: grey;
+  padding-top: 3em;
+  font-size:0.8em;
+  text-align: center;
+}
+
+.text-right {
+  grid-column: 6 / span 2;
+}
+
+.text-left {
+  grid-column: 5 / span 2;
+}
+
+.badge-container-left {
+  grid-column: 5;
+  text-align: -webkit-right;
+  padding-bottom: 1.5em;
+}
+
+.badge-container-right {
+  grid-column: 7;
+  text-align: -webkit-left;
+  padding-bottom: 1.5em;
+}
+
+.badge {
+  height: 12em;
+  width: 12em;
+  overflow: hidden;
+  border-radius: 50%;
+  box-shadow: 2px 5px 8px lightgrey;
+}
+
+.badge:hover {
+  box-shadow: 2px 5px 8px grey;
+}
+
+.badge img {
+  height: 100%;
+}
+
+.ascii-badge {
+  height: 12em;
+  width: 12em;
+  overflow: hidden;
+  border-radius: 50%;
+  box-shadow: 2px 5px 8px lightgrey;
+}
+
+.ascii-badge img {
+  margin-left: -525px;
+  margin-top: -400px;
+}
+
+.ascii-badge:hover {
+  box-shadow: 2px 5px 8px grey;
+}

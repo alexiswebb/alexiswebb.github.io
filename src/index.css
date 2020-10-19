@@ -11,10 +11,20 @@ h1 {
   padding-top: 0.5em;
 }
 
+h2 {
+  font-family: 'Commissioner', sans-serif;
+  font-weight: 200;
+  font-size: 2em;
+  word-spacing: 0.2em;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 2em;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding-bottom: 3em;
   text-align: center;
 }
 
@@ -25,11 +35,12 @@ li {
   display: inline;
 }
 
-li:first-child:before {
+li:last-child:after {
   content: '';
+  left-padding: 0em;
 }
 
-li:before {
+li:after {
   content: "\00B7";
   padding: 1.2em;
 }
@@ -44,7 +55,7 @@ a:hover {
   text-decoration: none;
 }
 
-a:active {
-  color: light-grey;
+a.active {
+  color: chocolate;
   text-decoration: none;
 }
