@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "https://alexiswebb.github.io/website/static/css/main.65f8b90d.chunk.css",
-    "main.js": "https://alexiswebb.github.io/website/static/js/main.d0ea3c0d.chunk.js",
-    "main.js.map": "https://alexiswebb.github.io/website/static/js/main.d0ea3c0d.chunk.js.map",
+    "main.css": "https://alexiswebb.github.io/website/static/css/main.1d967c69.chunk.css",
+    "main.js": "https://alexiswebb.github.io/website/static/js/main.9302a898.chunk.js",
+    "main.js.map": "https://alexiswebb.github.io/website/static/js/main.9302a898.chunk.js.map",
     "runtime-main.js": "https://alexiswebb.github.io/website/static/js/runtime-main.ceeeb508.js",
     "runtime-main.js.map": "https://alexiswebb.github.io/website/static/js/runtime-main.ceeeb508.js.map",
-    "static/js/2.d84d1adc.chunk.js": "https://alexiswebb.github.io/website/static/js/2.d84d1adc.chunk.js",
-    "static/js/2.d84d1adc.chunk.js.map": "https://alexiswebb.github.io/website/static/js/2.d84d1adc.chunk.js.map",
+    "static/js/2.ddb94260.chunk.js": "https://alexiswebb.github.io/website/static/js/2.ddb94260.chunk.js",
+    "static/js/2.ddb94260.chunk.js.map": "https://alexiswebb.github.io/website/static/js/2.ddb94260.chunk.js.map",
     "index.html": "https://alexiswebb.github.io/website/index.html",
-    "precache-manifest.fdc6626a3d958b6f6b10b52cf36076f2.js": "https://alexiswebb.github.io/website/precache-manifest.fdc6626a3d958b6f6b10b52cf36076f2.js",
+    "precache-manifest.412059985c4017006a89b73508c7e89f.js": "https://alexiswebb.github.io/website/precache-manifest.412059985c4017006a89b73508c7e89f.js",
     "service-worker.js": "https://alexiswebb.github.io/website/service-worker.js",
-    "static/css/main.65f8b90d.chunk.css.map": "https://alexiswebb.github.io/website/static/css/main.65f8b90d.chunk.css.map",
-    "static/js/2.d84d1adc.chunk.js.LICENSE.txt": "https://alexiswebb.github.io/website/static/js/2.d84d1adc.chunk.js.LICENSE.txt"
+    "static/css/main.1d967c69.chunk.css.map": "https://alexiswebb.github.io/website/static/css/main.1d967c69.chunk.css.map",
+    "static/js/2.ddb94260.chunk.js.LICENSE.txt": "https://alexiswebb.github.io/website/static/js/2.ddb94260.chunk.js.LICENSE.txt",
+    "static/media/dots.png": "https://alexiswebb.github.io/website/static/media/dots.eb37b6f5.png",
+    "static/media/headphones.jpg": "https://alexiswebb.github.io/website/static/media/headphones.af92d7c7.jpg",
+    "static/media/wave_small.png": "https://alexiswebb.github.io/website/static/media/wave_small.ed4e32bc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ceeeb508.js",
-    "static/js/2.d84d1adc.chunk.js",
-    "static/css/main.65f8b90d.chunk.css",
-    "static/js/main.d0ea3c0d.chunk.js"
+    "static/js/2.ddb94260.chunk.js",
+    "static/css/main.1d967c69.chunk.css",
+    "static/js/main.9302a898.chunk.js"
   ]
 }
