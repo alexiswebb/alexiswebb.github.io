@@ -6,7 +6,7 @@ import Resume from "./Resume";
 class Menu extends Component {
   render() {
     return (
-      <HashRouter>
+      <HashRouter basename="/">
 	<div>
 	  <h1>Alexis Webb</h1>
 	  <ul>
@@ -16,6 +16,7 @@ class Menu extends Component {
 	    <li><a href='https://github.com/alexiswebb'>Github</a></li>
 	    <li><a href='https://www.linkedin.com/in/alexis-webb-41039277/'>LinkedIn</a></li>
 	  </ul>
+          <div class="divider"></div>
           <div className="content">
             <Route exact path="/" component={Projects}/> 
             <Route path="/resume" component={Resume}/> 
