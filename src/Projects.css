@@ -1,48 +1,50 @@
 .project-container {
   display: grid;
-  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;
-  column-gap: 1.8em;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  column-gap: min(2vw, 1.8em);
   padding-bottom: 3em;
 }
 
 h3 {
   font-family: 'Roboto', sans-serif;
   text-transform: uppercase;
-  font-size: 1.5em;
+  font-size: min(3.2vw, 1.5em);
   color: grey;
 }
 
 .project-description {
   font-family: 'Roboto', sans-serif;
   color: grey;
-  padding-top: 3em;
-  font-size:0.8em;
+  padding-top: min(3vw, 2.5em);
+  font-size: min(2.5vw, 0.8em);
   text-align: center;
 }
 
 .text-right {
-  grid-column: 6 / span 2;
+  grid-column: span 2;
+  padding-right: 11vw;
 }
 
 .text-left {
-  grid-column: 5 / span 2;
+  grid-column: 2 / span 2;
+  padding-left: 11vw;
 }
 
 .badge-container-left {
-  grid-column: 5;
+  grid-column: 2;
   text-align: -webkit-right;
   padding-bottom: 1.5em;
 }
 
 .badge-container-right {
-  grid-column: 7;
+  grid-column: 4;
   text-align: -webkit-left;
   padding-bottom: 1.5em;
 }
 
 .badge {
-  height: 12em;
-  width: 12em;
+  height: min(30vw, 12em);
+  width: min(30vw, 12em);
   overflow: hidden;
   border-radius: 50%;
   box-shadow: 2px 5px 8px lightgrey;
@@ -57,16 +59,17 @@ h3 {
 }
 
 .ascii-badge {
-  height: 12em;
-  width: 12em;
+  height: min(30vw, 12em);
+  width: min(30vw, 12em);
   overflow: hidden;
   border-radius: 50%;
   box-shadow: 2px 5px 8px lightgrey;
 }
 
 .ascii-badge img {
-  margin-left: -525px;
-  margin-top: -400px;
+  margin-left: -30vw;
+  margin-top: -20vh;
+  height: 200%
 }
 
 .ascii-badge:hover {
