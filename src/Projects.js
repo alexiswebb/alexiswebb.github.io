@@ -1,5 +1,8 @@
 import React, { Component } from "react";
 import "./Projects.css";
+import headphones from "./images/headphones.jpg";
+import graph from "./images/dots.png";
+import wave from "./images/wave_small.png";
  
 class Projects extends Component {
   render() {
@@ -7,7 +10,7 @@ class Projects extends Component {
       <div class="project-container">
 	<div class="badge-container-left">
 	  <div class="badge">
-	    <img src="images/headphones.jpg" />
+	    <img src={headphones} alt="Marshall headphones on a table" />
 	  </div>
 	</div>
 	<div class="project-description text-right">
@@ -20,12 +23,12 @@ class Projects extends Component {
 	</div>
 	<div class="badge-container-right">
 	  <div class="badge">
-	    <img src="images/dots.png" />
+	    <img src={graph} alt="cluster graph" />
 	  </div>
 	</div>
 	<div class="badge-container-left">
 	  <div class="ascii-badge">
-	    <img src="images/wave_small.png" />
+	    <img src={wave} alt="ASCII art of a mountain with waves"/>
 	  </div>
 	</div>
 	<div class="project-description text-right">
